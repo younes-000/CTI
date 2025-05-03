@@ -2,7 +2,6 @@
 
 This Python script retrieves and displays information about an IPv4 address via the AlienVault OTX (Open Threat Exchange) DirectConnect API.
 
-## Overview
 
 # Project Name: CTI IPv4 Indicator Info Script
 
